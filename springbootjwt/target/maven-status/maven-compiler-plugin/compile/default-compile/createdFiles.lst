@@ -1,0 +1,3 @@
+com\springbootjwt\dto\JwtTokenDTO$JwtTokenDTOBuilder.class
+com\springbootjwt\dto\ResponseDTO$ResponseDTOBuilder.class
+com\springbootjwt\model\User$UserBuilder.class
